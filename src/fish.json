@@ -1,51 +1,51 @@
 [
     {
       "id": 1,
-      "image": "angelfish.jpg"
+      "image": "bobafett.jpg"
     },
     {
       "id": 2,
-      "image": "barracuda.jpeg"    
+      "image": "death star.jpg"    
     },
     {
       "id": 3,
-      "image": "butterfly.jpg"
+      "image": "finn.jpg"
     },
     {
       "id": 4,
-      "image": "chromis.jpg" 
+      "image": "han.jpg" 
     },
     {
       "id": 5,
-      "image": "clownfish.jpg"
+      "image": "kylo.jpg"
     },
     {
       "id": 6,
-      "image": "creolewrasse.jpg"
+      "image": "luke.jpg"
     },
     {
       "id": 7,
-      "image": "damselfish.jpg"
+      "image": "obiwan.jpg"
     },
     {
       "id": 8,
-      "image": "grunt.jpg"
+      "image": "palpatine.jpg"
     },
     {
       "id": 9,
-      "image": "parrotfish.jpg"
+      "image": "palpatineguards.jpg"
     },
     {
       "id": 10,
-      "image": "rockbeauty.jpg"
+      "image": "poe.jpg"
     },
     {
       "id": 11,
-      "image": "sergeantmajor.JPG"
+      "image": "tarkin.jpg"
     },
     {
       "id": 12,
-      "image": "tang.jpg"
+      "image": "vader.jpg"
     }
   ]
   
