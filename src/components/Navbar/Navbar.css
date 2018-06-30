@@ -16,12 +16,12 @@
 }
 
 .navbar {
-  background: #490549;
+  background: #200220;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
 }
 
 li {
-  color: white;
+  color: rgb(226, 11, 11);
   padding: 15px 0;
 }
 
